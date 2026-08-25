@@ -2,5 +2,7 @@
 
 `Edgar Antonio De León Ramírez`
 
+## Rama, PR y conflicto resuelto
+
 ### Descripción del repositorio
 Repositorio creado para realizar la tarea de la semana 3 del curso de Computo Científico de la MCOM en el periodo agosto-diciembre 2026.
