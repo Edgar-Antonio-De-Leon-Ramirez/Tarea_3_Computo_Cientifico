@@ -1,5 +1,7 @@
 # Tarea_3_Computo_Cientifico
 
+`Edgar Antonio De León Ramírez`
+
 ## Rama, PR y conflicto resuelto
 
 ### Descripción del repositorio
